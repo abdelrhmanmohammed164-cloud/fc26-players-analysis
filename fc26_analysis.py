@@ -26,15 +26,9 @@ st.set_page_config(
 # File Paths
 # ==========================================================
 
-data_path = (
-    "/Users/eng-abdelrhman/Documents/Data analysis 2/"
-    "FC26_20250921.csv"
-)
+data_path = "FC26_20250921.csv"
 
-images_folder = (
-    "/Users/eng-abdelrhman/Documents/Data analysis 2/"
-    "player_images"
-)
+images_folder = images_folder = "images"
 
 
 # ==========================================================
